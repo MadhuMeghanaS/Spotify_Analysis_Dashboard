@@ -40,10 +40,11 @@ The dashboard has 4 main parts:
 
 ## 🚀 What's inside?
 
-- **Easy Navigation**: You can easily jump between the Home, Overview, Artist, and Song pages.
-- **Filters**: You can filter the data by Artist or Song to see what you want.
-- **Cool Design**: I used a dark theme with custom icons to make it look like the real Spotify app.
-- **Song Data**: Shows which songs are popular and explains why based on the data.
+- **Home Page**: A landing page with easy buttons to go to different parts of the dashboard.
+- **Global Overview**: This page shows the big picture—total songs, average popularity, and trends over time.
+- **Artist Analysis**: You can see which artists are leading the charts. It shows how many songs they have in the Top 50 and how popular they are.
+- **Song Specifics**: A deep dive into individual tracks. You can check details like the album type, release year, and specific popularity scores.
+- **Interactive Filters**: Use the slicers to filter data by your favorite artist or genre to see their specific stats instantly.
 
 ## 📊 What did I find?
 
@@ -72,4 +73,3 @@ The dashboard has 4 main parts:
 3. If it asks for the data, just select the `.csv` file in this folder.
 
 ---
-
