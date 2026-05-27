@@ -14,9 +14,9 @@ The dashboard has 4 main parts:
 
 | **🏠 Home Page** | **📊 Overview** |
 | :---: | :---: |
-| ![Home](assets/Index.jpg) | ![Overview](assets/Overview.png) |
+| ![Home](assets/Index.png) | ![Overview](assets/Overview.png) |
 | **👩‍🎤 Artists** | **🎵 Songs** |
-| ![Artists](assets/Artists.png) | ![Songs](assets/Songs.png) |
+| ![Artists](assets/artists.png) | ![Songs](assets/songs.png) |
 
 ---
 
