@@ -72,4 +72,4 @@ The dashboard has 4 main parts:
 3. If it asks for the data, just select the `.csv` file in this folder.
 
 ---
-*Created for my portfolio.*
+
