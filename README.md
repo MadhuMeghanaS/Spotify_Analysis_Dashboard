@@ -13,25 +13,25 @@ The dashboard has 4 main parts:
 ## 🖥️ Dashboard Slideshow
 
 <details>
-<summary><b>🏠 View Slide 1: Home Page</b></summary>
+<summary><b>🏠 Home Page</b></summary>
 <br>
 <img src="assets/Index.png" alt="Home Page" width="100%">
 </details>
 
 <details>
-<summary><b>📊 View Slide 2: Global Overview</b></summary>
+<summary><b>📊 Global Overview</b></summary>
 <br>
 <img src="assets/Overview.png" alt="Overview" width="100%">
 </details>
 
 <details>
-<summary><b>👩‍🎤 View Slide 3: Artist Analysis</b></summary>
+<summary><b>👩‍🎤 Artist Analysis</b></summary>
 <br>
 <img src="assets/artists.png" alt="Artists" width="100%">
 </details>
 
 <details>
-<summary><b>🎵 View Slide 4: Song Specifics</b></summary>
+<summary><b>🎵 Song Specifics</b></summary>
 <br>
 <img src="assets/songs.png" alt="Songs" width="100%">
 </details>
